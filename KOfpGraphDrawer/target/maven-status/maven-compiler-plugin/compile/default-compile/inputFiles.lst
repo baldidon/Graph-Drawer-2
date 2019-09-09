@@ -1,16 +1,16 @@
-/media/andrea/Extreme SSD/miei file/Graph-Drawer/KOfpGraphDrawer/src/main/java/kofpgraphdrawer/view/GraphPanel.java
-/media/andrea/Extreme SSD/miei file/Graph-Drawer/KOfpGraphDrawer/src/main/java/kofpgraphdrawer/view/IView.java
-/media/andrea/Extreme SSD/miei file/Graph-Drawer/KOfpGraphDrawer/src/main/java/kofpgraphdrawer/model/Model.java
-/media/andrea/Extreme SSD/miei file/Graph-Drawer/KOfpGraphDrawer/src/main/java/kofpgraphdrawer/view/GMLFileHandler.java
-/media/andrea/Extreme SSD/miei file/Graph-Drawer/KOfpGraphDrawer/src/main/java/kofpgraphdrawer/model/Edge.java
-/media/andrea/Extreme SSD/miei file/Graph-Drawer/KOfpGraphDrawer/src/main/java/kofpgraphdrawer/view/EdgeDrawing.java
-/media/andrea/Extreme SSD/miei file/Graph-Drawer/KOfpGraphDrawer/src/main/java/kofpgraphdrawer/controller/Controller.java
-/media/andrea/Extreme SSD/miei file/Graph-Drawer/KOfpGraphDrawer/src/main/java/kofpgraphdrawer/controller/IController.java
-/media/andrea/Extreme SSD/miei file/Graph-Drawer/KOfpGraphDrawer/src/main/java/kofpgraphdrawer/view/MainGUI.java
-/media/andrea/Extreme SSD/miei file/Graph-Drawer/KOfpGraphDrawer/src/main/java/kofpgraphdrawer/model/Graph.java
-/media/andrea/Extreme SSD/miei file/Graph-Drawer/KOfpGraphDrawer/src/main/java/kofpgraphdrawer/model/IModel.java
-/media/andrea/Extreme SSD/miei file/Graph-Drawer/KOfpGraphDrawer/src/main/java/kofpgraphdrawer/view/InfoPanel.java
-/media/andrea/Extreme SSD/miei file/Graph-Drawer/KOfpGraphDrawer/src/main/java/kofpgraphdrawer/view/NodeDrawing.java
-/media/andrea/Extreme SSD/miei file/Graph-Drawer/KOfpGraphDrawer/src/main/java/kofpgraphdrawer/model/Node.java
-/media/andrea/Extreme SSD/miei file/Graph-Drawer/KOfpGraphDrawer/src/main/java/kofpgraphdrawer/view/CircularDrawing.java
-/media/andrea/Extreme SSD/miei file/Graph-Drawer/KOfpGraphDrawer/src/main/java/kofpgraphdrawer/view/View.java
+/home/andrea/Documenti/gitHub/Graph-Drawer-2/KOfpGraphDrawer/src/main/java/kofpgraphdrawer/controller/IController.java
+/home/andrea/Documenti/gitHub/Graph-Drawer-2/KOfpGraphDrawer/src/main/java/kofpgraphdrawer/view/NodeDrawing.java
+/home/andrea/Documenti/gitHub/Graph-Drawer-2/KOfpGraphDrawer/src/main/java/kofpgraphdrawer/view/GraphPanel.java
+/home/andrea/Documenti/gitHub/Graph-Drawer-2/KOfpGraphDrawer/src/main/java/kofpgraphdrawer/view/IView.java
+/home/andrea/Documenti/gitHub/Graph-Drawer-2/KOfpGraphDrawer/src/main/java/kofpgraphdrawer/view/CircularDrawing.java
+/home/andrea/Documenti/gitHub/Graph-Drawer-2/KOfpGraphDrawer/src/main/java/kofpgraphdrawer/controller/Controller.java
+/home/andrea/Documenti/gitHub/Graph-Drawer-2/KOfpGraphDrawer/src/main/java/kofpgraphdrawer/view/MainGUI.java
+/home/andrea/Documenti/gitHub/Graph-Drawer-2/KOfpGraphDrawer/src/main/java/kofpgraphdrawer/model/IModel.java
+/home/andrea/Documenti/gitHub/Graph-Drawer-2/KOfpGraphDrawer/src/main/java/kofpgraphdrawer/view/View.java
+/home/andrea/Documenti/gitHub/Graph-Drawer-2/KOfpGraphDrawer/src/main/java/kofpgraphdrawer/view/InfoPanel.java
+/home/andrea/Documenti/gitHub/Graph-Drawer-2/KOfpGraphDrawer/src/main/java/kofpgraphdrawer/view/GMLFileHandler.java
+/home/andrea/Documenti/gitHub/Graph-Drawer-2/KOfpGraphDrawer/src/main/java/kofpgraphdrawer/model/Edge.java
+/home/andrea/Documenti/gitHub/Graph-Drawer-2/KOfpGraphDrawer/src/main/java/kofpgraphdrawer/model/Model.java
+/home/andrea/Documenti/gitHub/Graph-Drawer-2/KOfpGraphDrawer/src/main/java/kofpgraphdrawer/view/EdgeDrawing.java
+/home/andrea/Documenti/gitHub/Graph-Drawer-2/KOfpGraphDrawer/src/main/java/kofpgraphdrawer/model/Graph.java
+/home/andrea/Documenti/gitHub/Graph-Drawer-2/KOfpGraphDrawer/src/main/java/kofpgraphdrawer/model/Node.java

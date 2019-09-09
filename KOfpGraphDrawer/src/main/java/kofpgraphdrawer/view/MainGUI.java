@@ -523,6 +523,8 @@ public class MainGUI extends JFrame implements ActionListener{
         else if(event.getSource() == fanPlanarButton){
             try{
                 kOfpValue = Integer.valueOf(JOptionPane.showInputDialog(this, "Insert k parameter"));
+                if(Controller.getInstance().getGraphNodes().size() > 8)
+                    JOptionPane.showMessageDialog(this, "ATTENTION \ncalculating may be slow you must be patient!!!");
                 boolean ris = Controller.getInstance().update("isFanPlanar");
                 this.infoPanel.setTextOfLogArea("The graph is " + kOfpValue + " fan-planar:" + ris);
                 

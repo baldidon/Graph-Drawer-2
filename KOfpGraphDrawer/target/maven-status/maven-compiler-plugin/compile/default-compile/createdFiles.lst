@@ -8,8 +8,8 @@ kofpgraphdrawer/model/Graph$SortByAngle.class
 kofpgraphdrawer/model/Node.class
 kofpgraphdrawer/view/View.class
 kofpgraphdrawer/controller/IController.class
-kofpgraphdrawer/view/NodeDrawing.class
 kofpgraphdrawer/view/IView.class
+kofpgraphdrawer/view/NodeDrawing.class
 kofpgraphdrawer/view/InfoPanel.class
 kofpgraphdrawer/view/GraphPanel.class
 kofpgraphdrawer/model/Graph.class
